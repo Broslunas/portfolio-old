@@ -33,7 +33,6 @@ export const projects: Project[] = [
 		...(await getRepositoryDetails('broslunas/Spotify-Stats')),
 		name: 'Spotify Stats',
 		description: 'Plataforma web para ver tus estadísticas de spotify.',
-		demoLink: 'https://stats.broslunas.com',
 		postLink: '/spotify-stats',
 		tags: ['Astro', 'APIs', 'NodeJS', 'Typescript'],
 		cover: 'https://cdn.broslunas.com/projects/stats.webp'
