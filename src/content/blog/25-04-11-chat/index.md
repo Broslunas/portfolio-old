@@ -1,14 +1,10 @@
 ---
-title: 'Proyecto: Chat IA SUPER PRO'
-slug: chat
-tags:
-  - Astro
-  - React
-  - Javascript
-  - Typescript
-  - IA
-  - API
-  - MongoDB
+title: 'Proyecto: Chat IA'
+slug: 'chat'
+description: 'Un chat interactivo con IA para los fans de Minecraft.'
+pubDate: 'Apr 11 2025'
+tags: ['Astro', 'React', 'Javascript', 'Typescript', 'IA', 'API', 'MongoDB']
+coverImage: '/src/assets/img/posts/chat.webp'
 ---
 
 ## Introducción
