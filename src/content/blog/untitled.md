@@ -11,6 +11,5 @@ description: >-
   JavaScript.
 pubDate: Apr 12 2025
 coverImage: /src/assets/img/posts/clock.webp
-si: '2026-02-02'
 ---
 
