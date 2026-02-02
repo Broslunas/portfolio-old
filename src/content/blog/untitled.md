@@ -1,5 +1,5 @@
 ---
-slug: clock
+slug: clock-2
 tags:
   - HTML
   - CSS
