@@ -11,7 +11,7 @@ description: >-
   Exploramos el mundo del plátano maduro, desde su uso en la cocina latina hasta
   consejos para lograr la maduración perfecta.
 pubDate: Jan 12 2026
-coverImage: 'https://cdn.broslunas.com/logo.png'
+coverImage: /src/assets/img/posts/link-shortener.webp
 ---
 # El Maduro: Un Delicado Equilibrio Entre Dulzura y Decadencia
 
