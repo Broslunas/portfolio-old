@@ -1,10 +1,10 @@
 ---
-title: 'Proyecto: Link Shortener'
-slug: 'link-shortener'
-description: 'Un acortador de enlaces sencillo y efectivo para compartir URLs de manera más amigable.'
-pubDate: 'May 26 2025'
-tags: ['Astro', 'Javascript', 'Typescript', 'API', 'MongoDB']
-coverImage: '/src/assets/img/posts/link-shortener.webp'
+title: 'Proyecto Acortador de Enlaces: API REST, Estadísticas y Autenticación Segura'
+slug: link-shortener
+tags: [Acortador de Enlaces, API REST, MongoDB, Astro, Autenticación JWT]
+description: 'Crea URLs cortas con nuestro acortador avanzado. Incluye autenticación de usuarios, estadísticas de clics, API REST e integración con MongoDB. ¡Simplifica y comparte!'
+pubDate: May 26 2025
+coverImage: /src/assets/img/posts/link-shortener.webp
 ---
 
 ## Introducción
