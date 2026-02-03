@@ -1,5 +1,5 @@
 ---
-title: 'Proyecto: Sitio Web de Juegos super pro'
+title: 'Proyecto: Sitio Web de Juegos super pro yes yes yes'
 slug: games
 tags: [HTML, CSS, JAVASCRIPT, GAMES]
 description: 'Un sitio web con una colección de juegos creados con HTML, CSS y JavaScript.'
